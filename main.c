@@ -7,7 +7,6 @@
  *
  * Return: Always 0
  */
-
 int main(void)
 {
     int len;
@@ -43,3 +42,4 @@ int main(void)
     printf("Unknown:[%r]\n");
     return (0);
 }
+
